@@ -6,7 +6,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 """
 
 ########################################################################
-# TODO: 2.
+# DONE: 2.
 #   Locate the syntax (notation) errors in this file
 #   by looking for red underlines.
 #
@@ -16,7 +16,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #   Then fix the errors, one by one.
 #     -- Fixing one error may bring up additional errors
 #          (after a few seconds or when you run or save the module).
-#     -- Each time, fix the ERROR that is currrently nearest the TOP of the module.
+#     -- Each time, fix the ERROR that is currently nearest the TOP of the module.
 #     -- Often the SOURCE of the error can be on the line just BEFORE
 #          the line with a red underline.
 #     -- New errors may appear when you RUN the module.
